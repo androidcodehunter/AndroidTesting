@@ -2,4 +2,6 @@
     <string name="app_name">AndroidTesting</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="recipe_not_found">Recipe not found</string>
+    <string name="hello">Hello</string>
+    <string name="title">MainActivity</string>
 </resources>
